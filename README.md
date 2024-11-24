@@ -24,4 +24,10 @@ Create (POST) – Adds a new employee to the system.
 Read (GET) – Retrieves details of employees from the database.
 Update (POST) – Updates existing employee information (in this case, POST is used to update).
 Delete (DELETE) – Deletes employee records from the system.
+
+
+Testing-You can test api using swagger or postman
+
 By using these core CRUD operations, the system enables efficient and flexible management of employee data. The tech stack ensures that data is processed quickly, securely, and accurately across all functions.
+
+
